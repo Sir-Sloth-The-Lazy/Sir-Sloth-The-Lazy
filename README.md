@@ -37,8 +37,7 @@
 <br><br> 
 
 
-<h1 align="center">Hi 👋, I'm Jeevant Prakhar Singh</h1>
-<h3 align="center">A passionate developer and researcher</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-sloth-the-lazy&label=Profile%20views&color=0e75b6&style=flat" alt="sir-sloth-the-lazy" /> </p>
 
