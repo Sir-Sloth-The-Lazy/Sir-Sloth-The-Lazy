@@ -47,7 +47,7 @@
 
 - 📝 I regularly write articles on [hashnode.com](hashnode.com)
 
-- 💬 Ask me about **react , TailwindCSS , Federated Learning , Generative AI and AI agents**
+- 💬 Ask me about **SciML , Federated Learning , Generative AI and AI agents**
 
 - 📫 How to reach me **jeevantprakharsingh2004@gmail.com**
 
