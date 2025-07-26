@@ -40,7 +40,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-sloth-the-lazy&label=Profile%20views&color=0e75b6&style=flat" alt="sir-sloth-the-lazy" /> </p>
 
-- 🌱 I’m currently learning **SciML , GenAI and Full-Stack AI enabled Web Development**
+- 🌱 I’m currently learning **SciML , Natural Language Processiong and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://port-folio-website-inky.vercel.app/](https://port-folio-website-inky.vercel.app/)
 
