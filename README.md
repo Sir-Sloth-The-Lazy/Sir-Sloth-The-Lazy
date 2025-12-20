@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Sir-Sloth-The-Lazy&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Sloth-The-Lazy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sir-Sloth-The-Lazy&icon=0&color=0)](https://visitcount.itsvg.in)
