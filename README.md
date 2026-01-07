@@ -43,8 +43,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sir-Sloth-The-Lazy&show_icons=true&theme=xcode&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Sloth-The-Lazy&theme=xcode&hide_border=true&layout=compact" alt="Top Languages" width="300" />
+  <img src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
