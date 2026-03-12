@@ -25,8 +25,9 @@
 ---
 
 ## 💻 Tech Stack
+<p align="center">
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,arduino,apple,airflow,anaconda,bash,codeforces,cpp,codechef,css3,cudacplusplus,curl,dagshub,discord,django,docker,drawio,dataversioncontrol,cursor,fastapi,figma,flask,firebase,git,googlecloud,github,gitbash,googleadk,gitlab,githubpages,geminicli,googlecolaboratory,googledocs,homebrew,huggingface,html,googleidx,githubactions,intellijidea,java,javascript,jupyter,langchain,kubernetes,leetcode,linkedin,keras,macos,medium,matplotlib,modelcontextprotocol,mongodb,mysql,n8n,ollama,notepadplusplus,notion,numpy,oauth,onyx,openapi,opencode,opencv,pandas,plotly,polars,postgresql,postman,pydantic,pycharm,pypi,pytest,python,pytorch,pytorch3d,qoder,raspberrypi,reddit,redhat,redis,scikitlearn,scipy,seaborn,streamlit,sublime,supabase,tensorflow,tailwindcss,visualstudiocode)](https://github.com/syvixor/skills-icons)
-
+<p>
 ---
 
 ## 📊 GitHub Analytics
