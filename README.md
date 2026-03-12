@@ -36,7 +36,11 @@
 ![MLflow](https://img.shields.io/badge/mlflow-%23292D3E.svg?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-%23292D3E.svg?style=for-the-badge&logo=dvc&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-%23292D3E.svg?style=for-the-badge&logo=WeightsandBiases&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23292D3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23292D3E.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23292D3E.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%23292D3E.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%23292D3E.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,githubactions,gcp,github" />
+  </a>
+</p>
 
 ### 🌐 Frameworks & Tools
 ![Django](https://img.shields.io/badge/django-%23292D3E.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23292D3E.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23292D3E.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23292D3E.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23292D3E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
