@@ -48,8 +48,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&theme=xcode&hide_border=true" width="710" />
   </a>
 </p>
-
-
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nzc2m5mq7dydsmjcg7x7sli7xy&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 
 
