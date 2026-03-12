@@ -25,44 +25,8 @@
 ---
 
 ## 💻 Tech Stack
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,arduino,apple,airflow,anaconda,bash,codeforces,cpp,codechef,css3,cudacplusplus,curl,dagshub,discord,django,docker,drawio,dataversioncontrol,cursor,fastapi,figma,flask,firebase,git,googlecloud,github,gitbash,googleadk,gitlab,githubpages,geminicli,googlecolaboratory,googledocs,homebrew,huggingface,html,googleidx,githubactions,intellijidea,java,javascript,jupyter,langchain,kubernetes,leetcode,linkedin,keras,macos,medium,matplotlib,modelcontextprotocol,mongodb,mysql,n8n,ollama,notepadplusplus,notion,numpy,oauth,onyx,openapi,opencode,opencv,pandas,plotly,polars,postgresql,postman,pydantic,pycharm,pypi,pytest,python,pytorch,pytorch3d,qoder,raspberrypi,reddit,redhat,redis,scikitlearn,scipy,seaborn,streamlit,sublime,supabase,tensorflow,tailwindcss,visualstudiocode)](https://github.com/syvixor/skills-icons)
 
-### 🛠 Languages & Core
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql,tailwind" />
-  </a>
-</p>
-
-### 🤖 AI, Machine Learning & Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23292D3E.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23292D3E.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23292D3E.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23292D3E.svg?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23292D3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23292D3E.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23292D3E.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23292D3E.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-%23292D3E.svg?style=for-the-badge&logo=spacy&logoColor=white) 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow" />
-  </a>
-</p>
-
-### 🚀 MLOps & Pipeline
-![MLflow](https://img.shields.io/badge/mlflow-%23292D3E.svg?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-%23292D3E.svg?style=for-the-badge&logo=dvc&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-%23292D3E.svg?style=for-the-badge&logo=WeightsandBiases&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,githubactions,gcp,github,azure" />
-  </a>
-</p>
-
-### 🌐 Frameworks & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,firebase,mongodb,postgres,postman" />
-  </a>
-</p>
-### 💻 Other Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,discord,idea,notion,pycharm,raspberrypi,vscode" />
-  </a>
-</p>
 ---
 
 ## 📊 GitHub Analytics
