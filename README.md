@@ -13,8 +13,6 @@
 
 
 
-
-
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/jeevantpsingh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeevantpsingh" /></a>
@@ -28,7 +26,7 @@
 
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,arduino,apple,airflow,anaconda,bash,codeforces,cpp,codechef,css3,cudacplusplus,curl,dagshub,discord,django,docker,drawio,dataversioncontrol,cursor,fastapi,figma,flask,firebase,git,googlecloud,github,gitbash,googleadk,gitlab,githubpages,geminicli,googlecolaboratory,googledocs,homebrew,huggingface,html,googleidx,githubactions,intellijidea,java,javascript,jupyter,langchain,kubernetes,leetcode,linkedin,keras,macos,medium,matplotlib,modelcontextprotocol,mongodb,mysql,n8n,ollama,notepadplusplus,notion,numpy,oauth,onyx,openapi,opencode,opencv,pandas,plotly,polars,postgresql,postman,pydantic,pycharm,pypi,pytest,python,pytorch,pytorch3d,qoder,raspberrypi,reddit,redhat,redis,scikitlearn,scipy,seaborn,streamlit,sublime,supabase,tensorflow,tailwindcss,visualstudiocode)](https://github.com/syvixor/skills-icons)
 
----
+
 
 ## 📊 GitHub Analytics
 
