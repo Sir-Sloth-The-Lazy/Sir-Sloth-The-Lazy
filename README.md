@@ -35,7 +35,9 @@
   </picture>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sir-Sloth-The-Lazy&theme=youtube-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sir-Sloth-The-Lazy&theme=youtube-dark&hide_border=true&border_radius=3" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
