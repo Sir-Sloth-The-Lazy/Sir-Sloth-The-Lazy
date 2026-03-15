@@ -18,11 +18,53 @@
 </p>
 
 ---
-
 ## 💻 Tech Stack
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,arduino,apple,airflow,anaconda,bash,codeforces,cpp,codechef,css3,cudacplusplus,curl,dagshub,discord,django,docker,drawio,dataversioncontrol,cursor,fastapi,figma,flask,firebase,git,googlecloud,github,gitbash,googleadk,gitlab,githubpages,geminicli,googlecolaboratory,googledocs,homebrew,huggingface,html,googleidx,githubactions,intellijidea,java,javascript,jupyter,langchain,kubernetes,leetcode,linkedin,keras,macos,medium,matplotlib,modelcontextprotocol,mongodb,mysql,n8n,ollama,notepadplusplus,notion,numpy,oauth,onyx,openapi,opencode,opencv,pandas,plotly,polars,postgresql,postman,pydantic,pycharm,pypi,pytest,python,pytorch,pytorch3d,qoder,raspberrypi,reddit,redhat,redis,scikitlearn,scipy,seaborn,streamlit,sublime,supabase,tensorflow,tailwindcss,visualstudiocode)](https://github.com/syvixor/skills-icons)
+### 🧠 Languages
 
+[![Languages](https://skills.syvixor.com/api/icons?perline=12\&i=python,cpp,java,javascript,bash,html,css3)](https://github.com/syvixor/skills-icons)
+
+---
+
+### 🤖 AI / Machine Learning / Data
+
+[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,tensorflow,keras,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly)](https://github.com/syvixor/skills-icons)
+
+---
+
+### ⚙️ Backend & APIs
+
+[![Backend](https://skills.syvixor.com/api/icons?perline=12\&i=fastapi,django,flask,openapi,pydantic,oauth)](https://github.com/syvixor/skills-icons)
+
+---
+
+### ☁️ Cloud & DevOps
+
+[![DevOps](https://skills.syvixor.com/api/icons?perline=12\&i=amazonwebservices,googlecloud,docker,kubernetes,githubactions,airflow,dataversioncontrol,dagshub)](https://github.com/syvixor/skills-icons)
+
+---
+
+### 🗄 Databases
+
+[![Databases](https://skills.syvixor.com/api/icons?perline=12\&i=mongodb,mysql,postgresql,redis,supabase,firebase)](https://github.com/syvixor/skills-icons)
+
+---
+
+### 🧰 Tools & IDEs
+
+[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,gitlab,github,gitbash,githubpages,postman,figma,drawio,notion,visualstudiocode,intellijidea,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
+
+---
+
+### 🔬 Data Science & Research Tools
+
+[![Research](https://skills.syvixor.com/api/icons?perline=12\&i=jupyter,googlecolaboratory,huggingface,langchain,ollama,streamlit)](https://github.com/syvixor/skills-icons)
+
+---
+
+### 💻 Platforms & Communities
+
+[![Platforms](https://skills.syvixor.com/api/icons?perline=12\&i=leetcode,codeforces,codechef,linkedin,medium,reddit,discord)](https://github.com/syvixor/skills-icons)
 
 
 ## 📊 GitHub Analytics
