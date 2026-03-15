@@ -28,6 +28,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output-3d-contrib/day.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sir-Sloth-The-Lazy&theme=xcode&hide_border=true" alt="GitHub Streak" width="710" />
 </p>
 
