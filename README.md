@@ -4,9 +4,6 @@
 </div>
 <h1 align="center">Namaste <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width= 100> , I'm Jeevant Singh</h1>
 <h3 align="center">An Aspiring AI Researcher</h3>
-<div align ="center">
-<img src = "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width = 250> 
-</div>
 <div align = "center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Alt Text">  
 </div>
@@ -29,13 +26,6 @@
 
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sir-Sloth-The-Lazy&theme=xcode&hide_border=true" alt="GitHub Streak" width="710" />
