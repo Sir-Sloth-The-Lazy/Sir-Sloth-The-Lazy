@@ -22,50 +22,81 @@
 
 ### 🧠 Languages
 
+<div align="center">
+
 [![Languages](https://skills.syvixor.com/api/icons?perline=12\&i=python,cpp,java,javascript,bash,html,css3)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### 🤖 AI / Machine Learning / Data
 
+<div align="center">
+
 [![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,tensorflow,keras,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### ⚙️ Backend & APIs
 
+<div align="center">
+
 [![Backend](https://skills.syvixor.com/api/icons?perline=12\&i=fastapi,django,flask,openapi,pydantic,oauth)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### ☁️ Cloud & DevOps
 
+<div align="center">
+
 [![DevOps](https://skills.syvixor.com/api/icons?perline=12\&i=amazonwebservices,googlecloud,docker,kubernetes,githubactions,airflow,dataversioncontrol,dagshub)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### 🗄 Databases
 
+<div align="center">
+
 [![Databases](https://skills.syvixor.com/api/icons?perline=12\&i=mongodb,mysql,postgresql,redis,supabase,firebase)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### 🧰 Tools & IDEs
 
+<div align="center">
+
 [![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,gitlab,github,gitbash,githubpages,postman,figma,drawio,notion,visualstudiocode,intellijidea,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### 🔬 Data Science & Research Tools
 
+<div align="center">
+
 [![Research](https://skills.syvixor.com/api/icons?perline=12\&i=jupyter,googlecolaboratory,huggingface,langchain,ollama,streamlit)](https://github.com/syvixor/skills-icons)
+
+</div>
 
 ---
 
 ### 💻 Platforms & Communities
 
+<div align="center">
+
 [![Platforms](https://skills.syvixor.com/api/icons?perline=12\&i=leetcode,codeforces,codechef,linkedin,medium,reddit,discord)](https://github.com/syvixor/skills-icons)
 
+</div>
 
 ## 📊 GitHub Analytics
 
