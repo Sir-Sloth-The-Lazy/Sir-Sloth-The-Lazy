@@ -109,13 +109,8 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sir-Sloth-The-Lazy&theme=youtube-dark&hide_border=true&border_radius=3" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=0d1117&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true&radius=12" width="1080"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" width="720"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nzc2m5mq7dydsmjcg7x7sli7xy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
