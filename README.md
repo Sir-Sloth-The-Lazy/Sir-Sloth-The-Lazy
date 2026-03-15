@@ -35,7 +35,7 @@
   </picture>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output-3d-contrib/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output-3d-contrib/profile-3d-contrib/profile-gitblock.svg"/>
 </p>
 
 <p align="center">
