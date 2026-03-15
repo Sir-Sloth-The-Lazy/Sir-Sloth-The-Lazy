@@ -113,9 +113,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&theme=xcode&hide_border=true" width="710" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" width="720"/>
 </p>
 
 <p align="center">
