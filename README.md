@@ -35,9 +35,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sir-Sloth-The-Lazy&theme=xcode&hide_border=true" alt="GitHub Streak" width="710" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sir-Sloth-The-Lazy&theme=youtube-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
