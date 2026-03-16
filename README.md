@@ -30,11 +30,11 @@
 
 ---
 
-### 🤖 AI / Machine Learning / Data
+### 🤖 AI / Machine Learning / Agentic AI
 
 <div align="center">
 
-[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,tensorflow,keras,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly)](https://github.com/syvixor/skills-icons)
+[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,tensorflow,keras,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly,huggingface,langchain,ollama)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-[![Backend](https://skills.syvixor.com/api/icons?perline=12\&i=fastapi,django,flask,openapi,pydantic,oauth)](https://github.com/syvixor/skills-icons)
+[![Backend](https://skills.syvixor.com/api/icons?perline=12\&i=fastapi,django,flask,openapi,pydantic,oauth,streamlit)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-[![Research](https://skills.syvixor.com/api/icons?perline=12\&i=jupyter,googlecolaboratory,huggingface,langchain,ollama,streamlit)](https://github.com/syvixor/skills-icons)
+[![Research](https://skills.syvixor.com/api/icons?perline=12\&i=jupyter,googlecolaboratory)](https://github.com/syvixor/skills-icons)
 
 </div>
 
