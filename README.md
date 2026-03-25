@@ -10,7 +10,7 @@
 
 
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect !
 <p align="left">
 <a href="https://linkedin.com/in/jeevantpsingh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeevantpsingh" /></a>
 <a href="https://x.com/JeevantSin61236" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="JeevantSin61236" /></a>
