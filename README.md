@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly,ollama)](https://github.com/syvixor/skills-icons)
+[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,tensorflow,keras,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly,ollama)](https://github.com/syvixor/skills-icons)
 
 </div>
 
