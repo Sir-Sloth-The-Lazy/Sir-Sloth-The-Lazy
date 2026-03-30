@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,tensorflow,keras,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly,huggingface,langchain,ollama)](https://github.com/syvixor/skills-icons)
+[![AI](https://skills.syvixor.com/api/icons?perline=12\&i=pytorch,scikitlearn,opencv,pytorch3d,numpy,pandas,polars,scipy,seaborn,matplotlib,plotly,ollama)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-[![DevOps](https://skills.syvixor.com/api/icons?perline=12\&i=amazonwebservices,googlecloud,docker,kubernetes,githubactions,airflow,dataversioncontrol,dagshub)](https://github.com/syvixor/skills-icons)
+[![DevOps](https://skills.syvixor.com/api/icons?perline=12\&i=amazonwebservices,googlecloud,docker,githubactions,airflow,dataversioncontrol,dagshub)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![Databases](https://skills.syvixor.com/api/icons?perline=12\&i=mongodb,mysql,postgresql,redis,supabase,firebase)](https://github.com/syvixor/skills-icons)
+[![Databases](https://skills.syvixor.com/api/icons?perline=12\&i=mongodb,mysql,postgresql,firebase)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,gitlab,github,gitbash,githubpages,postman,figma,drawio,notion,visualstudiocode,intellijidea,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
+[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,github,gitbash,githubpages,postman,figma,drawio,notion,visualstudiocode,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
 
 </div>
 
