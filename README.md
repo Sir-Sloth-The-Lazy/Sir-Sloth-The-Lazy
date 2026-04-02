@@ -3,7 +3,6 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
 </div>
 <h1 align="center">Namaste <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width= 100> , I'm Jeevant Singh</h1>
-<h3 align="center">An Aspiring AI Researcher</h3>
 <div align = "center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Alt Text">  
 </div>
