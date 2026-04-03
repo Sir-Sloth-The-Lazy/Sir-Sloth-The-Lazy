@@ -69,7 +69,7 @@
 
 ---
 
-### 🧰 Tools & IDEs
+### 🧰 Tools, IDE and Codeeditor
 
 <div align="center">
 
