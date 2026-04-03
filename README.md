@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,github,gitbash,githubpages,postman,figma,drawio,notion,visualstudiocode,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
+[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,postman,figma,drawio,notion,visualstudiocode,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
 
 </div>
 
