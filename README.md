@@ -89,7 +89,7 @@
 
 ---
 
-### 💻 Platforms & Communities
+### 💻 Platforms
 
 <div align="center">
 
