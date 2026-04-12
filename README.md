@@ -97,7 +97,7 @@
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 Analytics
 
 <p align="center">
   <picture>
