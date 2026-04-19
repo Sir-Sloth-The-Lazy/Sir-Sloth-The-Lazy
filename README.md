@@ -49,7 +49,7 @@
 
 ---
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud/DevOps
 
 <div align="center">
 
