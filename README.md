@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![Databases](https://skills.syvixor.com/api/icons?perline=12\&i=mongodb,mysql,postgresql,firebase)](https://github.com/syvixor/skills-icons)
+[![Databases](https://skills.syvixor.com/api/icons?perline=12\&i=mongodb,postgresql,firebase)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,postman,figma,drawio,notion,visualstudiocode,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
+[![Tools](https://skills.syvixor.com/api/icons?perline=12\&i=git,postman,figma,framer,drawio,notion,visualstudiocode,pycharm,anaconda,homebrew)](https://github.com/syvixor/skills-icons)
 
 </div>
 
