@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Backend](https://skills.syvixor.com/api/icons?perline=12\&i=fastapi,django,flask,openapi,pydantic,oauth,streamlit)](https://github.com/syvixor/skills-icons)
+[![Backend](https://skills.syvixor.com/api/icons?perline=12\&i=fastapi,nodejs,openapi,pydantic,oauth,streamlit)](https://github.com/syvixor/skills-icons)
 
 </div>
 
