@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Languages](https://skills.syvixor.com/api/icons?perline=12\&i=python,cpp,java,javascript,bash,html,css3)](https://github.com/syvixor/skills-icons)
+[![Languages](https://skills.syvixor.com/api/icons?perline=12\&i=python,cpp,java,javascript,bash,html,css3,tailwind,julia)](https://github.com/syvixor/skills-icons)
 
 </div>
 
