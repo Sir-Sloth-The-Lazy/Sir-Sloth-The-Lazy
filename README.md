@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![Research](https://skills.syvixor.com/api/icons?perline=12\&i=jupyter,googlecolaboratory,kaggle,huggingface,arvix)](https://github.com/syvixor/skills-icons)
+[![Research](https://skills.syvixor.com/api/icons?perline=12\&i=jupyter,googlecolaboratory,kaggle,huggingface,arxiv)](https://github.com/syvixor/skills-icons)
 
 </div>
 
