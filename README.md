@@ -93,7 +93,7 @@
 
 <div align="center">
 
-[![Platforms](https://skills.syvixor.com/api/icons?perline=12\&i=leetcode,codeforces,codechef,linkedin,medium,reddit,discord)](https://github.com/syvixor/skills-icons)
+[![Platforms](https://skills.syvixor.com/api/icons?perline=12\&i=leetcode,codeforces,codechef,linkedin,medium,reddit,discord,atcoder,cses)](https://github.com/syvixor/skills-icons)
 
 </div>
 
