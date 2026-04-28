@@ -31,14 +31,14 @@ from __future__ import annotations
 
 class JeevantSingh:
     """
-    B.Tech CS @ Manipal University (CGPA 9.1 · 2026) —
+    B.Tech CS @ Manipal (CGPA 9.5 · 2026) —
     Research Intern @ ISRO building semantic communication
     systems for satellite imagery. Edge AI, federated learning,
     and anything that runs on constrained hardware.
     """
 
     name      : str  = "Jeevant Prakhar Singh"
-    education : str  = "B.Tech CS · Manipal University · CGPA 9.1/10 · 2026"
+    education : str  = "B.Tech CS · Manipal · CGPA 9.5/10 · 2026"
     located   : str  = "India"
     open_to   : list = ["research collaborations", "interesting projects", "full-time roles"]
     focused   : list = ["Edge AI", "Semantic Communications", "Federated Learning", "Agentic AI"]
@@ -89,14 +89,14 @@ PROFICIENCY = {
 
     #  Languages              ░░░░░░░░░░░░░░░░░░░░  Level
     #  ───────────────────────────────────────────────────────
-    "Python"       :  { "bar": "████████████████████",  "level": "Expert"       },
+    "Python"       :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
     "C++"          :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
     "Julia"        :  { "bar": "████████████░░░░░░░░",  "level": "Proficient"   },
     "JavaScript"   :  { "bar": "██████████░░░░░░░░░░",  "level": "Intermediate" },
 
     #  AI / ML & Vision
     #  ───────────────────────────────────────────────────────
-    "PyTorch"      :  { "bar": "████████████████████",  "level": "Expert"       },
+    "PyTorch"      :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
     "TensorFlow"   :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
     "scikit-learn" :  { "bar": "███████████████░░░░░",  "level": "Advanced"     },
     "HuggingFace"  :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
@@ -124,7 +124,7 @@ $ git log --oneline ~/projects/
 f1re5tr  (DeepStream · YOLO11 · TensorRT · K8s)     FireStream                        [ONGOING]
          └─ Edge-AI fire detection on Jetson Orin AGX — event-driven RTSP, multi-camera
 
-5em4n71  (ViT · TensorFlow · FPGA · JSCC)           Semantic Comms @ ISRO             [ONGOING]
+5em4n71  (ViT · TensorFlow · FPGA · JSCC)           Semantic Comms @ ISRO             [Nov 2025]
          └─ 70M-param ViT+CNN for satellite imagery — channel simulation, AWGN/Rayleigh
 
 b10ckch  (Solidity · Ethereum · Truffle · Ganache)   Blockchain-FL Authentication      [Jan 2025]
@@ -143,7 +143,7 @@ c0v1d19  (Julia · SciML · Docker)                   COVID-19 SciML Forecasting
 
 $ cat achievements.log
 
-  ★  Dean's Excellence Award     ·  Manipal University  ·  4 consecutive semesters (3 → 6)
+  ★  Dean's Excellence Award     ·  Manipal  ·  5 consecutive semesters (3 → 7)
   ◆  Smart India Hackathon        ·  Selected for Nationals  ·  Top 2 rounds from 250+ teams
   ◆  MUJ HackX 2.0               ·  Semi-Finalist  ·  Top 10%  ·  250+ teams
   ◆  MUJ Model United Nations    ·  1st Runners-Up  ·  Debate & Negotiation
@@ -168,17 +168,6 @@ $ cat achievements.log
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=0d1117&color=818cf8&line=6366f1&point=38bdf8&area=true&area_color=302b63&hide_border=true&radius=6" width="100%" />
-
-</div>
-
-<div align="center">
-
-<!-- Contribution snake — add Platane/snk GitHub Action, output path: output/github-contribution-grid-snake-dark.svg -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
