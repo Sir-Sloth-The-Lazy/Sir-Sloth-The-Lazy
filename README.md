@@ -136,40 +136,7 @@ class JeevantSingh:
 
 ---
 
-### `// featured_projects`
 
-```bash
-$ cat ~/projects/pinned.json | jq '.[]'
-```
-
-```json
-[
-  {
-    "name"  : "→ Project Alpha",
-    "about" : "Replace with a one-liner — what it does and why it matters",
-    "stack" : ["PyTorch", "FastAPI", "Docker"],
-    "link"  : "https://github.com/Sir-Sloth-The-Lazy/replace-me"
-  },
-  {
-    "name"  : "→ Project Beta",
-    "about" : "Replace with a one-liner — what it does and why it matters",
-    "stack" : ["LangChain", "Streamlit", "GCP"],
-    "link"  : "https://github.com/Sir-Sloth-The-Lazy/replace-me"
-  },
-  {
-    "name"  : "→ Project Gamma",
-    "about" : "Replace with a one-liner — what it does and why it matters",
-    "stack" : ["OpenCV", "PostgreSQL", "AWS"],
-    "link"  : "https://github.com/Sir-Sloth-The-Lazy/replace-me"
-  }
-]
-```
-
----
-
-</div>
-
----
 
 ### `// runtime_stats`
 
