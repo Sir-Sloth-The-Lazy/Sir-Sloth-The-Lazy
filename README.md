@@ -108,17 +108,7 @@ PROFICIENCY = {
 
 </div>
 
-<div align="center">
 
-<!-- Contribution snake — requires the Platane/snk GitHub Action                  -->
-<!-- Workflow output path: output/github-contribution-grid-snake-dark.svg          -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sir-Sloth-The-Lazy/Sir-Sloth-The-Lazy/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 <br/>
 
