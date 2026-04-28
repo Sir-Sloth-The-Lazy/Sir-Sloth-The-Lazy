@@ -64,7 +64,7 @@ PROFICIENCY = {
 
     #  Languages              ░░░░░░░░░░░░░░░░░░░░  Level
     #  ─────────────────────────────────────────────────────
-    "Python"      :  { "bar": "████████████████████",  "level": "Expert"       },
+    "Python"      :  { "bar": "███████████████████░",  "level": "Advanced"     },
     "C++"         :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
     "Java"        :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
     "JavaScript"  :  { "bar": "██████████░░░░░░░░░░",  "level": "Intermediate" },
@@ -72,7 +72,7 @@ PROFICIENCY = {
 
     #  AI / ML
     #  ─────────────────────────────────────────────────────
-    "PyTorch"     :  { "bar": "████████████████████",  "level": "Expert"       },
+    "PyTorch"     :  { "bar": "███████████████████░",  "level": "Advanced"     },
     "scikit-learn":  { "bar": "████████████████░░░░",  "level": "Advanced"     },
     "TensorFlow"  :  { "bar": "██████████████░░░░░░",  "level": "Advanced"     },
     "HuggingFace" :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
@@ -87,28 +87,6 @@ PROFICIENCY = {
 }
 ```
 
-<br/>
-
-```bash
-# ┌──────────────────────────────────────────────────────────────────┐
-# │  projects.sh  ·  pinned work                                     │
-# └──────────────────────────────────────────────────────────────────┘
-
-$ git log --oneline --decorate ~/projects/
-
-# ── Replace these with your actual projects ────────────────────────
-
-7a3f21b  (PyTorch · FastAPI · Docker)   Project Alpha
-         └─ What it does and why it matters — one sentence max
-
-4c9e18d  (LangChain · Streamlit · GCP)  Project Beta
-         └─ What it does and why it matters — one sentence max
-
-1b5d7a9  (OpenCV · PostgreSQL · AWS)    Project Gamma
-         └─ What it does and why it matters — one sentence max
-```
-
-<br/>
 
 <div align="center">
 
