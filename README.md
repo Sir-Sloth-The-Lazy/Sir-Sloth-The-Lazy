@@ -31,14 +31,14 @@ from __future__ import annotations
 
 class JeevantSingh:
     """
-    B.Tech CS @ Manipal (CGPA 9.5 · 2026) —
+    B.Tech CS @ Manipal (CGPA (Too Good to be here) · 2026) —
     Research Intern @ ISRO building semantic communication
     systems for satellite imagery. Edge AI, federated learning,
     and anything that runs on constrained hardware.
     """
 
     name      : str  = "Jeevant Prakhar Singh"
-    education : str  = "B.Tech CS · Manipal · CGPA 9.5/10 · 2026"
+    education : str  = "B.Tech CS · Manipal · 2026"
     located   : str  = "India"
     open_to   : list = ["research collaborations", "interesting projects", "full-time roles"]
     focused   : list = ["Edge AI", "Semantic Communications", "Federated Learning", "Agentic AI"]
