@@ -143,7 +143,7 @@ c0v1d19  (Julia · SciML · Docker)                   COVID-19 SciML Forecasting
 
 $ cat achievements.log
 
-  ★  Dean's Excellence Award     ·  Manipal  ·  5 consecutive semesters (3 → 7)
+  ★  Dean's Excellence Award     ·  Manipal Uni ·  5 consecutive semesters (3 → 7)
   ◆  Smart India Hackathon        ·  Selected for Nationals  ·  Top 2 rounds from 250+ teams
   ◆  MUJ HackX 2.0               ·  Semi-Finalist  ·  Top 10%  ·  250+ teams
   ◆  MUJ Model United Nations    ·  1st Runners-Up  ·  Debate & Negotiation
