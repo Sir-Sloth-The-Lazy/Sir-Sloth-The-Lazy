@@ -29,7 +29,7 @@
 
 from __future__ import annotations
 
-class JeevantSingh:
+class JeevantPrakharSingh:
     """
     B.Tech CS @ Manipal (CGPA (Too Good to be here) · 2026) —
     Research Intern @ ISRO building semantic communication
