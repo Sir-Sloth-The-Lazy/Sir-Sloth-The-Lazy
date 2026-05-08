@@ -152,13 +152,7 @@ $ cat achievements.log
 
 <br/>
 
-<div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Sir-Sloth-The-Lazy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=0d1117&icon_color=818cf8&text_color=c7d2fe" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Sloth-The-Lazy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true&bg_color=0d1117&text_color=c7d2fe" />
-
-</div>
 
 <div align="center">
 
