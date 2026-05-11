@@ -145,8 +145,8 @@ $ cat achievements.log
 
   ★  Dean's Excellence Award     ·  Manipal Uni ·  5 consecutive semesters (3 → 7)
   *  President's Award for Research . Manipal Uni . Top 1 % of the students
-  ◆  Smart India Hackathon        ·  Selected for Nationals  ·  Top 2 rounds from 250+ teams
-  ◆  MUJ HackX 2.0               ·  Semi-Finalist  ·  Top 10%  ·  250+ teams
+  ◆  Smart India Hackathon        ·  Selected for Nationals  
+  ◆  MUJ HackX 2.0               ·  Semi-Finalist  ·  250+ teams
   ◆  MUJ Model United Nations    ·  1st Runners-Up  ·  Debate & Negotiation
 ```
 
