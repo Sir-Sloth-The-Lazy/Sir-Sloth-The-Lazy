@@ -142,7 +142,6 @@ c0v1d19  (Julia · SciML · Docker)                   COVID-19 SciML Forecasting
 # └──────────────────────────────────────────────────────────────────────┘
 
 $ cat achievements.log
-
   ★  Dean's Excellence Award     ·  Manipal Uni ·  5 consecutive semesters (3 → 7)
   *  President's Award for Research . Manipal Uni . Top 1 % of the students
   ◆  Smart India Hackathon        ·  Selected for Nationals  
@@ -167,5 +166,6 @@ $ cat achievements.log
 </div>
 
 <br/>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
