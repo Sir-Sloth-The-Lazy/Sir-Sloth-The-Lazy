@@ -24,7 +24,7 @@
 # │  jeevant_singh.py  ·  AI / ML Engineer  ·  India                    │
 # └──────────────────────────────────────────────────────────────────────┘
 
-from __future__ import annotations
+from __future__ import annotations , Optional
 
 class JeevantPrakharSingh:
     """
