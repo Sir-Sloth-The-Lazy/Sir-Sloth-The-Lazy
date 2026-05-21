@@ -26,6 +26,7 @@
 
 from __future__ import annotations , Optional
 
+
 class JeevantPrakharSingh:
     """
     B.Tech CS @ Manipal (CGPA (Too Good to be here) · 2026) —
