@@ -11,6 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=818CF8&center=true&vCenter=true&width=520&lines=%24+python+jeevant_singh.py;%3E+Research+Intern+%40+ISRO+%C2%B7+Space+AI;%3E+Edge+ML+%C2%B7+Agentic+AI+%C2%B7+Federated+Learning;%3E+%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99+%F0%9F%87%AF%F0%9F%87%B5" alt="typing" />
 
 <br/>
+<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevantpsingh)&nbsp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/JeevantSin61236)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeevantprakharsingh2004@gmail.com)&nbsp;
