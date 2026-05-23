@@ -39,7 +39,7 @@ class JeevantPrakharSingh:
     education : str  = "B.Tech CS · Manipal · 2026"
     located   : str  = "India"
     open_to   : list = ["research collaborations", "interesting projects", "full-time roles"]
-    focused   : list = ["Edge AI", "Semantic Communications", "Federated Learning", "Agentic AI"]
+    focused   : list = ["Edge AI", "Semantic Communications", "Federated Learning", "Agentic AI" , "Diffusion Models" , "GNNs"]
     learning  : list = ["日本語 (Japanese) 🇯🇵", "Agentic AI architectures", "Edge ML deployment"]
 
     @staticmethod
