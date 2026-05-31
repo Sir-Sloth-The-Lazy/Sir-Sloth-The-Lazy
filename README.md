@@ -40,7 +40,7 @@ class JeevantPrakharSingh:
     located   : str  = "India"
     open_to   : list = ["research collaborations", "interesting projects", "full-time roles"]
     focused   : list = ["Edge AI", "Semantic Communications", "Federated Learning", "Agentic AI" , "Diffusion Models" , "GNNs"]
-    learning  : list = ["日本語 (Japanese) 🇯🇵", "Agentic AI architectures", "Edge ML deployment"]
+    learning  : list = ["日本語 (Japanese) 🇯🇵", "Agentic AI architectures", "Edge ML deployment" , "Production LLMs"]
 
     @staticmethod
     def contact() -> dict[str, str]:
