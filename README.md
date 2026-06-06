@@ -6,6 +6,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Jeevant%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Research%20Intern%20%40%20ISRO%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Federated%20Learning%20%E2%80%A2%20India&descAlignY=58&descSize=15&descColor=c7d2fe" />
 
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=818CF8&center=true&vCenter=true&width=520&lines=%24+python+jeevant_singh.py;%3E+Research+Intern+%40+ISRO+%C2%B7+Space+AI;%3E+Edge+ML+%C2%B7+Agentic+AI+%C2%B7+Federated+Learning;%3E+%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99+%F0%9F%87%AF%F0%9F%87%B5" alt="typing" />
