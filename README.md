@@ -47,7 +47,7 @@ class JeevantPrakharSingh:
     @staticmethod
     def contact() -> dict[str, str]:
         return {
-            "linkedin" : "linkedin.com/in/jeevantpsingh",            # → DMs open
+            "linkedin" : "linkedin.com/in/jeevantpsingh",            # → DMs open lets talk about anything which interests us
             "twitter"  : "x.com/JeevantSin61236",                    # → always lurking
             "email"    : "jeevantprakharsingh2004@gmail.com",         # → fastest response
         }
