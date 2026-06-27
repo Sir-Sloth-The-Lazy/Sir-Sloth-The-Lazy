@@ -1,6 +1,6 @@
 <!-- github.com/Sir-Sloth-The-Lazy -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2412,100:0d0d0d&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20Systems%20%C2%B7%20GSoC%202026%20%C2%B7%20AI%20and%20Automation%20Engineer%20%40%20BCG&descSize=15&descColor=A0A0A0&descAlignY=60&fontFamily=JetBrains+Mono" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:332807,100:0a0f1e&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20Systems%20%C2%B7%20GSoC%202026%20%C2%B7%20AI%20and%20Automation%20Engineer%20%40%20BCG&descSize=15&descColor=A0A0A0&descAlignY=60&fontFamily=JetBrains+Mono" />
 
 <div align="center">
 
@@ -77,4 +77,4 @@ web         react · tailwind · express · postgresql · mongodb
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2412,100:0d0d0d&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:332807,100:0a0f1e&height=100&section=footer" />
