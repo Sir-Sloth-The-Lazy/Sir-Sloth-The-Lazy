@@ -33,7 +33,7 @@ I'm most interested in what happens when AI meets constrained systems — edge d
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84ba2a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="500" />
 </div>
 
 <br/>
