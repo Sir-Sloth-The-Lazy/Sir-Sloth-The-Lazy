@@ -1,6 +1,6 @@
 <!-- github.com/Sir-Sloth-The-Lazy -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1e1a10,100:0f0f0f&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20%C2%B7%20Edge%20Computing%20%C2%B7%20GSoC%202026%20%C2%B7%20Incoming%20%40%20BCG&descSize=14&descColor=787774&descAlignY=60&fontFamily=Verdana" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1e1a10,100:0f0f0f&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20%C2%B7%20Edge%20Computing%20%C2%B7%20GSoC%202026%20%C2%B7%20Incoming%20%40%20BCG&descSize=14&descColor=787774&descAlignY=60&fontFamily=JetBrains+Mono" />
 
 <div align="center">
 
