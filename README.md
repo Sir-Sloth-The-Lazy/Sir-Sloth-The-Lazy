@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=787774&center=true&vCenter=true&width=680&lines=I+build+AI+systems+that+run+at+the+edge+of+what%27s+possible.;Currently+making+weather+forecasting+smarter+%40+GSoC+2026.;Joining+BCG+in+August+as+AI+%26+Automation+Engineer.;Ask+me+about+semantic+comms%2C+GNNs%2C+or+why+I+deployed+on+an+FPGA." />
-
 <br/><br/>
 
 [![](https://img.shields.io/badge/-LinkedIn-191919?style=flat&logo=linkedin&logoColor=787774)](https://linkedin.com/in/jeevantpsingh)&nbsp;
