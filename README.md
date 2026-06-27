@@ -1,169 +1,82 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║              github.com / Sir-Sloth-The-Lazy                 ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+<!-- github.com/Sir-Sloth-The-Lazy -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Jeevant%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Research%20Intern%20%40%20ISRO%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Federated%20Learning%20%E2%80%A2%20India&descAlignY=58&descSize=15&descColor=c7d2fe" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1e1a10,100:0f0f0f&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20%C2%B7%20Edge%20Computing%20%C2%B7%20GSoC%202026%20%C2%B7%20Incoming%20%40%20BCG&descSize=14&descColor=787774&descAlignY=60&fontFamily=Verdana" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=818CF8&center=true&vCenter=true&width=520&lines=%24+python+jeevant_singh.py;%3E+Research+Intern+%40+ISRO+%C2%B7+Space+AI;%3E+Edge+ML+%C2%B7+Agentic+AI+%C2%B7+Federated+Learning;%3E+%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99+%F0%9F%87%AF%F0%9F%87%B5" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=787774&center=true&vCenter=true&width=680&lines=I+build+AI+systems+that+run+at+the+edge+of+what%27s+possible.;Currently+making+weather+forecasting+smarter+%40+GSoC+2026.;Joining+BCG+in+August+as+AI+%26+Automation+Engineer.;Ask+me+about+semantic+comms%2C+GNNs%2C+or+why+I+deployed+on+an+FPGA." />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevantpsingh)&nbsp;
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/JeevantSin61236)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeevantprakharsingh2004@gmail.com)&nbsp;
-</div>
-
-<br/>
-
-```python
-# ┌──────────────────────────────────────────────────────────────────────┐
-# │  jeevant_singh.py  ·  AI / ML Engineer  ·  India                    │
-# └──────────────────────────────────────────────────────────────────────┘
-
-from __future__ import annotations , Optional
-
-
-class JeevantPrakharSingh:
-    """
-    B.Tech CS @ Manipal (CGPA (Too Good to be here) · 2026) —
-    Research Intern @ ISRO building semantic communication
-    systems for satellite imagery. Edge AI, federated learning,
-    and anything that runs on constrained hardware.
-    """
-
-    name      : str  = "Jeevant Prakhar Singh"
-    education : str  = "B.Tech CS · Manipal · 2026"
-    located   : str  = "India"
-    open_to   : list = ["research collaborations", "interesting projects", "full-time roles"]
-    focused   : list = ["Edge AI", "Semantic Communications", "Federated Learning", "Agentic AI" , "Diffusion Models" , "GNNs"]
-    learning  : list = ["日本語 (Japanese) 🇯🇵", "Agentic AI architectures", "Edge ML deployment" , "Production LLMs"]
-
-    @staticmethod
-    def contact() -> dict[str, str]:
-        return {
-            "linkedin" : "linkedin.com/in/jeevantpsingh",            # → DMs open lets talk about anything which interests us
-            "twitter"  : "x.com/JeevantSin61236",                    # → always lurking
-            "email"    : "jeevantprakharsingh2004@gmail.com",         # → fastest response
-        }
-
-    def __repr__(self) -> str:
-        return "Deployed on FPGA. Ask me about it."
-```
-
-<br/>
-
-```bash
-# ┌──────────────────────────────────────────────────────────────────────┐
-# │  experience.log  ·  where I've shipped real work                     │
-# └──────────────────────────────────────────────────────────────────────┘
-
-$ cat experience.log
-
-[2025-06 → NOW ]  ISRO Space Applications Centre  ·  Research Intern  ·  Ahmedabad
-                  ├─ Semantic communication system for satellite imagery  (ViT + YOLO)
-                  ├─ Scaled model to 70M params, 512×512 resolution, JSCC pipeline
-                  └─ Deployed on FPGA & Jetson boards for real-time, low-latency inference
-
-[2024-05 → AUG ]  ABB  ·  Research Intern  ·  Bengaluru
-                  ├─ Federated learning framework (TensorFlow) for IoT predictive maintenance
-                  ├─ 20% ↓ equipment failures  ·  15% ↑ anomaly detection accuracy
-                  └─ Differential privacy across decentralized industrial sensor networks
-
-[2024-05 → JUN ]  Indian Institute of Management  ·  Summer Program in Management  ·  Udaipur
-```
-
-<br/>
-
-```python
-# ┌──────────────────────────────────────────────────────────────────────┐
-# │  skill_proficiency.py  ·  self-assessed  ·  █ = 1 unit              │
-# └──────────────────────────────────────────────────────────────────────┘
-
-PROFICIENCY = {
-
-    #  Languages              ░░░░░░░░░░░░░░░░░░░░  Level
-    #  ───────────────────────────────────────────────────────
-    "Python"       :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
-    "C++"          :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
-    "Julia"        :  { "bar": "████████████░░░░░░░░",  "level": "Proficient"   },
-    "JavaScript"   :  { "bar": "██████████░░░░░░░░░░",  "level": "Intermediate" },
-
-    #  AI / ML & Vision
-    #  ───────────────────────────────────────────────────────
-    "PyTorch"      :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
-    "TensorFlow"   :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
-    "scikit-learn" :  { "bar": "███████████████░░░░░",  "level": "Advanced"     },
-    "HuggingFace"  :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
-    "OpenCV"       :  { "bar": "████████████░░░░░░░░",  "level": "Proficient"   },
-
-    #  Edge & Infrastructure
-    #  ───────────────────────────────────────────────────────
-    "Docker"       :  { "bar": "████████████████░░░░",  "level": "Advanced"     },
-    "DeepStream"   :  { "bar": "█████████████░░░░░░░",  "level": "Proficient"   },
-    "Kubernetes"   :  { "bar": "████████████░░░░░░░░",  "level": "Proficient"   },
-    "AWS / GCP"    :  { "bar": "██████████░░░░░░░░░░",  "level": "Intermediate" },
-    "FPGA / Jetson":  { "bar": "██████████░░░░░░░░░░",  "level": "Intermediate" },
-}
-```
-
-<br/>
-
-```bash
-# ┌──────────────────────────────────────────────────────────────────────┐
-# │  projects.log  ·  things I've actually built                         │
-# └──────────────────────────────────────────────────────────────────────┘
-
-$ git log --oneline ~/projects/
-
-f1re5tr  (DeepStream · YOLO11 · TensorRT · K8s)     FireStream                        [ONGOING]
-         └─ Edge-AI fire detection on Jetson Orin AGX — event-driven RTSP, multi-camera
-
-5em4n71  (ViT · TensorFlow · FPGA · JSCC)           Semantic Comms @ ISRO             [Nov 2025]
-         └─ 70M-param ViT+CNN for satellite imagery — channel simulation, AWGN/Rayleigh
-
-b10ckch  (Solidity · Ethereum · Truffle · Ganache)   Blockchain-FL Authentication      [Jan 2025]
-         └─ Smart contracts for decentralized trust in federated learning across finance
-
-c0v1d19  (Julia · SciML · Docker)                   COVID-19 SciML Forecasting         [May 2024]
-         └─ Physics-informed NN with SIR/SEIR equations — 85% infection rate accuracy
-```
-
-<br/>
-
-```bash
-# ┌──────────────────────────────────────────────────────────────────────┐
-# │  achievements.log                                                    │
-# └──────────────────────────────────────────────────────────────────────┘
-
-$ cat achievements.log
-  ★  Dean's Excellence Award     ·  Manipal Uni ·  5 consecutive semesters (3 → 7)
-  *  President's Award for Research . Manipal Uni . Top 1 % of the students
-  ◆  Smart India Hackathon        ·  Selected for Nationals  
-  ◆  MUJ HackX 2.0               ·  Semi-Finalist  ·  250+ teams
-  ◆  MUJ Model United Nations    ·  1st Runners-Up  ·  Debate & Negotiation
-```
-
-<br/>
-
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sir-Sloth-The-Lazy&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=302b63&ring=818cf8&fire=6366f1&currStreakLabel=818cf8&sideLabels=818cf8&dates=6b7280" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=0d1117&color=818cf8&line=6366f1&point=38bdf8&area=true&area_color=302b63&hide_border=true&radius=6" width="100%" />
+[![](https://img.shields.io/badge/-LinkedIn-191919?style=flat&logo=linkedin&logoColor=787774)](https://linkedin.com/in/jeevantpsingh)&nbsp;
+[![](https://img.shields.io/badge/-Twitter-191919?style=flat&logo=x&logoColor=787774)](https://x.com/JeevantSin61236)&nbsp;
+[![](https://img.shields.io/badge/-Medium-191919?style=flat&logo=medium&logoColor=787774)](https://medium.com/@jeevantprakharsingh2004)&nbsp;
+[![](https://img.shields.io/badge/-Email-191919?style=flat&logo=gmail&logoColor=787774)](mailto:jeevantprakharsingh2004@gmail.com)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" />
+</div>
+
+<br/>
+
+---
+
+I'm a CS student at Manipal, currently doing **GSoC 2026 with [mllam](https://github.com/mllam)** — working alongside researchers from ETH Zürich and the European Geoscience Union to make [Neural-LAM](https://github.com/mllam/neural-lam) work with probabilistic forecasting models. Before this, I spent time at **ISRO** building a semantic communication system for satellite imagery now under review for deployment, and at **ABB** working on federated learning across industrial IoT.
+
+In August, I'm joining **BCG as an AI & Automation Engineer**.
+
+I'm most interested in what happens when AI meets constrained systems — edge deployment, semantic communications, GNNs for physical simulations, agents that actually ship. I also study Japanese 🇯🇵.
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84ba2a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" />
+</div>
+
+<br/>
+
+### things i've shipped
+
+**[Neural-LAM](https://github.com/mllam/neural-lam)** `GSoC 2026` — Rearchitected a weather forecasting model from a monolith into composable abstractions, integrated a new GNN layer, and closed an 18-month-old open issue. Part of ongoing work with ETH Zürich & EGU.
+
+**Semantic Comms for Satellite Imagery** `IEEE 2026` — Built a satellite-to-ground image pipeline using a YOLO-gated Swin Transformer–CNN architecture. 90% less bandwidth than digital baselines. Runs in under 3ms on a Jetson. Did the math on LEO vs GEO channels so you don't have to.
+
+**[FireStream](https://github.com/Sir-Sloth-The-Lazy)** `Active` — Real-time fire detection on Jetson Orin AGX using DeepStream + YOLO11 + TensorRT, deployed across multi-camera RTSP streams with Kubernetes.
+
+---
+
+### what i work with
+
+```
+languages   python · c++ · typescript · javascript · sql · c
+ai / ml     pytorch · tensorflow · pytorch geometric · langchain · langgraph
+edge        fpga · nvidia jetson · deepstream · tensorrt · semantic comms
+infra       docker · kubernetes · github actions · weights & biases
+web         react · tailwind · express · postgresql · mongodb
+```
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=191919&color=F5C97A&line=373737&point=F5C97A&area=true&area_color=2F2F2F&hide_border=true&radius=6" width="100%" />
+
+</div>
+
+<div align="center">
+<sub>Delhi → Ahmedabad → Zürich (remote) → ??? &nbsp;·&nbsp; always building something</sub>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1e1a10,100:0f0f0f&height=100&section=footer" />
