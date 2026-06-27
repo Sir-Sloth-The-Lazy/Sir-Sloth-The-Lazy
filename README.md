@@ -1,15 +1,15 @@
 <!-- github.com/Sir-Sloth-The-Lazy -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1e1a10,100:0f0f0f&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20Systems%20%C2%B7%20GSoC%202026%20%C2%B7%20AI%20and%20Automation%20Engineer%20%40%20BCG&descSize=15&descColor=787774&descAlignY=60&fontFamily=JetBrains+Mono" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2412,100:0d0d0d&height=200&text=Jeevant%20Singh&fontSize=46&fontColor=E8E8E8&fontAlignY=40&desc=AI%20Systems%20%C2%B7%20GSoC%202026%20%C2%B7%20AI%20and%20Automation%20Engineer%20%40%20BCG&descSize=15&descColor=A0A0A0&descAlignY=60&fontFamily=JetBrains+Mono" />
 
 <div align="center">
 
 <br/><br/>
 
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevantpsingh)&nbsp;
-[![](https://img.shields.io/badge/X-191919?style=for-the-badge&logo=x&logoColor=F5C97A)](https://x.com/JeevantSin61236)&nbsp;
-[![](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=medium&logoColor=F5C97A)](https://medium.com/@jeevantprakharsingh2004)&nbsp;
-[![](https://img.shields.io/badge/Gmail-191919?style=for-the-badge&logo=gmail&logoColor=F5C97A)](mailto:jeevantprakharsingh2004@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jeevantpsingh)&nbsp;
+[![](https://img.shields.io/badge/X-191919?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/JeevantSin61236)&nbsp;
+[![](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=medium&logoColor=00AB6C)](https://medium.com/@jeevantprakharsingh2004)&nbsp;
+[![](https://img.shields.io/badge/Gmail-191919?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jeevantprakharsingh2004@gmail.com)
 
 </div>
 
@@ -77,4 +77,4 @@ web         react · tailwind · express · postgresql · mongodb
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1e1a10,100:0f0f0f&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2412,100:0d0d0d&height=100&section=footer" />
