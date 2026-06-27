@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[![](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=F5C97A)](https://linkedin.com/in/jeevantpsingh)&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevantpsingh)&nbsp;
 [![](https://img.shields.io/badge/X-191919?style=for-the-badge&logo=x&logoColor=F5C97A)](https://x.com/JeevantSin61236)&nbsp;
 [![](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=medium&logoColor=F5C97A)](https://medium.com/@jeevantprakharsingh2004)&nbsp;
 [![](https://img.shields.io/badge/Gmail-191919?style=for-the-badge&logo=gmail&logoColor=F5C97A)](mailto:jeevantprakharsingh2004@gmail.com)
