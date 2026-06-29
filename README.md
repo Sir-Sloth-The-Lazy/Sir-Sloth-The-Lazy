@@ -21,7 +21,6 @@
 
 <br/>
 
----
 
 I'm a CS student at Manipal, currently doing **GSoC 2026 with [mllam](https://github.com/mllam)** — working alongside researchers from ETH Zürich and the European Geoscience Union to make [Neural-LAM](https://github.com/mllam/neural-lam) work with probabilistic forecasting models. Before this, I spent time at **ISRO** building a semantic communication system for satellite imagery now under review for deployment, and at **ABB** working on federated learning across industrial IoT.
 
