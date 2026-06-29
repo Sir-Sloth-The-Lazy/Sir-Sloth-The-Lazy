@@ -12,13 +12,6 @@
 </div>
 
 
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" />
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=191919&color=F5C97A&line=373737&point=F5C97A&area=true&area_color=2F2F2F&hide_border=true&radius=6" width="100%" />
