@@ -26,23 +26,79 @@
 <a href="https://medium.com/@jeevantprakharsingh2004" target="_blank"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" height="32" style="margin-right: 18px"></a>
 </p>
 
-*<h3 align="center">Open-source developer with a knack for first-principles learning 🥸
-Recovering web developer, currently relapsing into AI and Coffee. Prayers welcome 🙏🏻</h3>*
+**<h3 align="center">Open-source developer with a knack for first-principles learning 🥸
+Recovering web developer, currently relapsing into AI and Coffee. Prayers welcome 🙏🏻</h3>**
 
 **<h3 align="center">Rapid Fire</h3>**
 
-
+<div align="center">
 
 - 💼 I'm currently working on: **Agentic AI frameworks + open-source ML research**
 - 🌱 I'm currently learning: **📚 Exploring Claude Code**
 - 💬 Ask me about: **Touching grass, I hear it's wonderful, purely from secondhand reports 🌿**
 - ⚡ Fun fact: **Someone told me this world is a matrix. I asked for its dimensions. We don't talk anymore 🎢**
 
-
+</div>
 
 **<h3 align="center">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=typescript" height="28" alt="TypeScript" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=cpp" height="28" alt="C++" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=bash" height="28" alt="Bash" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=prisma" height="28" alt="Prisma" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=materialui" height="28" alt="Material UI" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=nextjs" height="28" alt="Nextjs" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=fastapi" height="28" alt="FastAPI" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=express" height="28" alt="Express" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=mongodb" height="28" alt="MongoDB" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=pytorch" height="28" alt="PyTorch" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=aws" height="28" alt="AWS" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=gcp" height="28" alt="GCP" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=azure" height="28" alt="Azure" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=kubernetes" height="28" alt="Kubernetes" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=notion" height="28" alt="Notion" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=pycharm" height="28" alt="PyCharm" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=postman" height="28" alt="Postman" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=supabase" height="28" alt="Supabase" style="margin-right: 12px"></div>
+
+**<h3 align="center">LLM Engineering Stack <sub>(in progress 📚)</sub></h3>**
+
+<p align="center"><sub><b>Fine-Tuning & PEFT</b></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/LoRA-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/QLoRA-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/DoRA-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/DPO-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/RLHF-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/HuggingFace%20TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Unsloth-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Axolotl-8A6C1A?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+</p>
+
+<p align="center"><sub><b>Inference & Serving</b></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/vLLM-2B2B2B?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/SGLang-2B2B2B?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/llama.cpp-2B2B2B?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/GGUF-2B2B2B?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/GPTQ%2FAWQ-2B2B2B?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+</p>
+
+<p align="center"><sub><b>RAG & Retrieval</b></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/ColPali-1C3C3C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/RAGAS-1C3C3C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+</p>
+
+<p align="center"><sub><b>Agentic AI & Protocols</b></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/MCP-3C3C3C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/A2A%20Protocol-3C3C3C?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Bedrock%20AgentCore-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" style="margin: 2px">
+</p>
+
+<p align="center"><sub><b>Evaluation & LLMOps</b></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/PromptFoo-6C3CE0?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Inspect%20AI-6C3CE0?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/LangSmith-6C3CE0?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="28" style="margin: 2px">
+</p>
+
+<p align="center"><sub><b>Multimodal & Speech</b></sub></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+<img src="https://img.shields.io/badge/Vision%20Transformers-412991?style=for-the-badge&logoColor=white" height="28" style="margin: 2px">
+</p>
 
 **<h3 align="center">GitHub Stats</h3>**
 
