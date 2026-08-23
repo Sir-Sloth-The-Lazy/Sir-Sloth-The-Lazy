@@ -42,7 +42,6 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1800,50:8a6c1a,100:1e1800&height=3&section=header" />
 
 <h3 align="center">🧰 Tech Stack</h3>
-<p align="center"><sub><i>🧠 = currently learning via Production LLM Engineering: RAG, Agents &amp; Fine-Tuning</i></sub></p>
 
 <div align="center">
 
@@ -52,7 +51,7 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 <td><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash" height="36" /></td>
 </tr>
 <tr>
-<td align="right"><b>ML &amp; Fine-Tuning</b><br/><sub>🧠</sub></td>
+<td align="right"><b>ML &amp; Fine-Tuning</b><br/><sub></sub></td>
 <td>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28">
@@ -69,7 +68,7 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 </td>
 </tr>
 <tr>
-<td align="right"><b>Inference<br/>&amp; Serving</b><br/><sub>🧠</sub></td>
+<td align="right"><b>Inference<br/>&amp; Serving</b><br/><sub></sub></td>
 <td>
 <img src="https://img.shields.io/badge/vLLM-2B2B2B?style=for-the-badge&logo=v&logoColor=FFD21E" height="28">
 <img src="https://img.shields.io/badge/llama.cpp-2B2B2B?style=for-the-badge&logo=llama&logoColor=white" height="28">
@@ -81,7 +80,7 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 </td>
 </tr>
 <tr>
-<td align="right"><b>RAG<br/>&amp; Retrieval</b><br/><sub>🧠</sub></td>
+<td align="right"><b>RAG<br/>&amp; Retrieval</b><br/><sub></sub></td>
 <td>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="28">
@@ -94,7 +93,7 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 </td>
 </tr>
 <tr>
-<td align="right"><b>Agentic AI</b><br/><sub>🧠</sub></td>
+<td align="right"><b>Agentic AI</b><br/><sub></sub></td>
 <td>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28">
@@ -104,7 +103,7 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 </td>
 </tr>
 <tr>
-<td align="right"><b>Eval &amp; LLMOps</b><br/><sub>🧠</sub></td>
+<td align="right"><b>Eval &amp; LLMOps</b><br/><sub></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28">
@@ -116,7 +115,7 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 </td>
 </tr>
 <tr>
-<td align="right"><b>Multimodal<br/>&amp; Speech</b><br/><sub>🧠</sub></td>
+<td align="right"><b>Multimodal<br/>&amp; Speech</b><br/><sub></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/CLIP%20%2F%20SigLIP-412991?style=for-the-badge&logo=openai&logoColor=white" height="28">
