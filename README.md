@@ -26,19 +26,19 @@
 <a href="https://medium.com/@jeevantprakharsingh2004" target="_blank"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" height="32" style="margin-right: 18px"></a>
 </p>
 
-**<h3 align="center">Open-source developer with a knack for first-principles learning 🥸
-Recovering web developer, currently relapsing into AI and Coffee. Prayers welcome 🙏🏻</h3>**
+*<h3 align="center">Open-source developer with a knack for first-principles learning 🥸
+Recovering web developer, currently relapsing into AI and Coffee. Prayers welcome 🙏🏻</h3>*
 
 **<h3 align="center">Rapid Fire</h3>**
 
-<div align="center">
+
 
 - 💼 I'm currently working on: **Agentic AI frameworks + open-source ML research**
 - 🌱 I'm currently learning: **📚 Exploring Claude Code**
 - 💬 Ask me about: **Touching grass, I hear it's wonderful, purely from secondhand reports 🌿**
 - ⚡ Fun fact: **Someone told me this world is a matrix. I asked for its dimensions. We don't talk anymore 🎢**
 
-</div>
+
 
 **<h3 align="center">Skills</h3>**
 
