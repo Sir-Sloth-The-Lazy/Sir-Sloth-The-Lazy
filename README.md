@@ -41,118 +41,108 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1800,50:8a6c1a,100:1e1800&height=3&section=header" />
 
-<h3 align="center">🛠️ Core Stack</h3>
+<h3 align="center">🧰 Tech Stack</h3>
+<p align="center"><sub><i>🧠 = currently learning via Production LLM Engineering: RAG, Agents &amp; Fine-Tuning</i></sub></p>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="right"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash" height="34" /></td>
+<td align="right" width="170"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash" height="36" /></td>
 </tr>
 <tr>
-<td align="right"><b>ML / AI</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,fastapi" height="34" /></td>
+<td align="right"><b>ML &amp; Fine-Tuning</b><br/><sub>🧠</sub></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/Unsloth-8A6C1A?style=for-the-badge&logo=llama&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Axolotl-8A6C1A?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+<br/>
+<img src="https://img.shields.io/badge/LoRA-8A6C1A?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/QLoRA-8A6C1A?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/DoRA-8A6C1A?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/SFT-8A6C1A?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/DPO-8A6C1A?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/RLHF-8A6C1A?style=for-the-badge" height="28">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Inference<br/>&amp; Serving</b><br/><sub>🧠</sub></td>
+<td>
+<img src="https://img.shields.io/badge/vLLM-2B2B2B?style=for-the-badge&logo=v&logoColor=FFD21E" height="28">
+<img src="https://img.shields.io/badge/llama.cpp-2B2B2B?style=for-the-badge&logo=llama&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Ollama-2B2B2B?style=for-the-badge&logo=ollama&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/SGLang-2B2B2B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/GGUF-2B2B2B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/GPTQ-2B2B2B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/AWQ-2B2B2B?style=for-the-badge" height="28">
+</td>
+</tr>
+<tr>
+<td align="right"><b>RAG<br/>&amp; Retrieval</b><br/><sub>🧠</sub></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="28">
+<br/>
+<img src="https://img.shields.io/badge/ColPali-1C3C3C?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/BM25%20%2F%20SPLADE-1C3C3C?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Graph%20RAG-1C3C3C?style=for-the-badge" height="28">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Agentic AI</b><br/><sub>🧠</sub></td>
+<td>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Bedrock%20AgentCore-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/A2A%20Protocol-3C3C3C?style=for-the-badge" height="28">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Eval &amp; LLMOps</b><br/><sub>🧠</sub></td>
+<td>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28">
+<br/>
+<img src="https://img.shields.io/badge/RAGAS-6C3CE0?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/PromptFoo-6C3CE0?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Inspect%20AI-6C3CE0?style=for-the-badge" height="28">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Multimodal<br/>&amp; Speech</b><br/><sub>🧠</sub></td>
+<td>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/CLIP%20%2F%20SigLIP-412991?style=for-the-badge&logo=openai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/DINOv2-0668E1?style=for-the-badge&logo=meta&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/ViT-412991?style=for-the-badge" height="28">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Backend &amp; APIs</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,prisma,supabase" height="36" /></td>
 </tr>
 <tr>
 <td align="right"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" height="34" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" height="36" /></td>
 </tr>
 <tr>
-<td align="right"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase" height="34" /></td>
-</tr>
-<tr>
-<td align="right"><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="34" /></td>
+<td align="right"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="36" /></td>
 </tr>
 <tr>
 <td align="right"><b>Cloud &amp; DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" height="34" /></td>
+<td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" height="36" /></td>
 </tr>
 <tr>
 <td align="right"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,notion" height="34" /></td>
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1800,50:8a6c1a,100:1e1800&height=3&section=header" />
-
-<h3 align="center">🧠 LLM Engineering Stack</h3>
-<p align="center"><sub><i>currently working through — Production LLM Engineering: RAG, Agents &amp; Fine-Tuning</i></sub></p>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="right" width="180"><b>Fine-Tuning<br/>&amp; PEFT</b></td>
-<td>
-<img src="https://img.shields.io/badge/LoRA-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/QLoRA-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/DoRA-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/SFT-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/DPO-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/RLHF-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26">
-<img src="https://img.shields.io/badge/Unsloth-8A6C1A?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Axolotl-8A6C1A?style=flat-square&logoColor=white" height="26">
-</td>
-</tr>
-<tr>
-<td align="right"><b>Inference<br/>&amp; Serving</b></td>
-<td>
-<img src="https://img.shields.io/badge/vLLM-2B2B2B?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/SGLang-2B2B2B?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/llama.cpp-2B2B2B?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/GGUF-2B2B2B?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/GPTQ-2B2B2B?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/AWQ-2B2B2B?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Flash%20Attention-2B2B2B?style=flat-square&logoColor=white" height="26">
-</td>
-</tr>
-<tr>
-<td align="right"><b>RAG<br/>&amp; Retrieval</b></td>
-<td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/ColPali-1C3C3C?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/BM25%20%2F%20SPLADE-1C3C3C?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Graph%20RAG-1C3C3C?style=flat-square&logoColor=white" height="26">
-</td>
-</tr>
-<tr>
-<td align="right"><b>Agentic AI<br/>&amp; Protocols</b></td>
-<td>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/A2A%20Protocol-3C3C3C?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Bedrock%20AgentCore-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="26">
-</td>
-</tr>
-<tr>
-<td align="right"><b>Eval<br/>&amp; LLMOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/RAGAS-6C3CE0?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/PromptFoo-6C3CE0?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Inspect%20AI-6C3CE0?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/LangSmith-6C3CE0?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="26">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="26">
-</td>
-</tr>
-<tr>
-<td align="right"><b>Multimodal<br/>&amp; Speech</b></td>
-<td>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/CLIP%20%2F%20SigLIP-412991?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/DINOv2-412991?style=flat-square&logoColor=white" height="26">
-<img src="https://img.shields.io/badge/Vision%20Transformers-412991?style=flat-square&logoColor=white" height="26">
-</td>
+<td><img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,notion,git,github" height="36" /></td>
 </tr>
 </table>
 
