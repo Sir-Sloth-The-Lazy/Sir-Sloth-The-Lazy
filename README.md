@@ -8,7 +8,7 @@
 <br/><br/>
 
 Open-source developer with a knack for first-principles learning 🥸<br/>
-Recovering web developer, currently relapsing into AI and Coffee. Prayers welcome 🙏🏻
+Recovering web developer, currently relapsing into AI and Coffee. Prayers are welcome 🙏🏻
 
 <br/>
 
