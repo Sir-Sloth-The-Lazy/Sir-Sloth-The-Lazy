@@ -148,19 +148,4 @@ Recovering web developer, currently relapsing into AI and Coffee. Prayers welcom
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1800,50:8a6c1a,100:1e1800&height=3&section=header" />
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com/?user=Sir-Sloth-The-Lazy&hide_border=true&border_radius=6&background=191919&stroke=373737&ring=F5C97A&fire=F5C97A&currStreakLabel=F5C97A&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=A0A0A0&date_format=M+j%5B%2C+Y%5D" alt="GitHub streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Sloth-The-Lazy&layout=compact&langs_count=8&hide_border=true&border_radius=6&bg_color=191919&title_color=F5C97A&text_color=E8E8E8" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sir-Sloth-The-Lazy&bg_color=191919&color=F5C97A&line=373737&point=F5C97A&area=true&area_color=2F2F2F&hide_border=true&radius=6" width="100%" alt="Activity graph" />
-
-</div>
-
-<div align="center">
-<sub>Delhi → Ahmedabad → Zürich (remote) → ??? &nbsp;·&nbsp; always building something</sub>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1800,50:8a6c1a,100:1e1800&height=100&section=footer" />
